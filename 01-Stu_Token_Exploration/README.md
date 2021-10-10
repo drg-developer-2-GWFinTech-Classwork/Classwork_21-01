@@ -10,7 +10,11 @@ In this activity, you will examine several tokens on the Ethereum blockchain and
 
 * [Basic Attention Token (BAT)](https://basicattentiontoken.org/)
 
+    * Rewards the user of a browser for their attention to an advertisement. This removes the middlemen in advertising and directly tracks ad usage/viewing.
+
 * [0x](https://0x.org/)
+
+    * Provides framework for exchange of Ethereum-based crypto assets, including smart contracts.
 
 * [Gemini Dollar (GUSD)](https://gemini.com/dollar/)
 
